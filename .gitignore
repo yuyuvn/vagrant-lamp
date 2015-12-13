@@ -2,4 +2,3 @@
 /data_bags/sites/*
 !/data_bags/sites/local.json
 /public
-!/public/local.dev
